@@ -1,0 +1,15 @@
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.csproj.AssemblyReference.cache
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.AssemblyInfoInputs.cache
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.AssemblyInfo.cs
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.csproj.CoreCompileInputs.cache
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/bin/Debug/net7.0/salaryProgram
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/bin/Debug/net7.0/salaryProgram.deps.json
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/bin/Debug/net7.0/salaryProgram.runtimeconfig.json
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/bin/Debug/net7.0/salaryProgram.dll
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/bin/Debug/net7.0/salaryProgram.pdb
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.dll
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/refint/salaryProgram.dll
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.pdb
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/salaryProgram.genruntimeconfig.cache
+/Users/samadovaulviyya/Projects/salaryProgram/salaryProgram/obj/Debug/net7.0/ref/salaryProgram.dll
